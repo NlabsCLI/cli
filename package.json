@@ -1,0 +1,13 @@
+{
+    "name": "nlabscli",
+    "version": "1.0.0",
+    "description": "nlabs jsFramewok v1",
+    "dependencies": {
+      "my-framework": "^1.0.0"
+    },
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Cuma KÖSE",
+    "license": "MIT"
+  }
